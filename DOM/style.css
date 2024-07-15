@@ -1,0 +1,36 @@
+/* .magnifier{
+    font-size: 10rem;
+} */
+
+body{
+    text-align: center;
+    background-color: rgb(39, 37, 37);
+}
+
+h1{
+    font-size: 7rem;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(89, 205, 167);
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.player1{
+    color: rgb(89, 205, 167) ;
+    margin: 0 7rem 0 0;
+    font-size: 1.9rem;
+}
+
+.player2{
+    color: rgb(89, 205, 167);
+    margin: 0 0 0 5rem;
+    font-size: 1.9rem;
+}
+
+.dceroll{
+    
+}
+
